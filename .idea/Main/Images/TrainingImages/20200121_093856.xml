@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TrainingImages</folder>
+	<filename>20200121_093856.jpg</filename>
+	<path>/home/zema/Dokumente/ZEMA_WORK_TERM/Project_Sotarium/Images/TrainingImages/20200121_093856.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>2268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FinishedAssembly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1542</xmin>
+			<ymin>1207</ymin>
+			<xmax>2501</xmax>
+			<ymax>1607</ymax>
+		</bndbox>
+	</object>
+</annotation>

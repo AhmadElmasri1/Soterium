@@ -1,0 +1,17 @@
+
+item {
+    id: 1
+    name: 'FinishedAssembly'
+}
+item {
+    id: 2
+    name: 'Nut'
+}
+item {
+    id: 3
+    name: 'Bolt'
+}
+item {
+    id: 4
+    name: 'Washer'
+}
